@@ -6,6 +6,16 @@ https://vercel.com/docs/functions/edge-functions/og-image-generation
 
 
 
+## deployed url
+
+
+https://og.cool/github.com/wanghaisheng/headlines-in-dynamic-github-repo-og
+
+
+https://headlines-in-dynamic-github-repo-og.vercel.app/github.com/wanghaisheng/headlines-in-dynamic-github-repo-og
+
+
+
 ## Introduction
 
 **OG.cool** is a demo that shows you how you can display headlines directly inside your news article's OG image. Powered by [`@vercel/og`](https://vercel.com/docs/functions/edge-functions/og-image-generation).
@@ -28,6 +38,8 @@ The **OG.cool** URL will still redirect to the destination URL when a user click
 - New York Times
 - Wired
 - Techcrunch
+- github
+- other
 
 ## Examples
 
