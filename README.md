@@ -10,6 +10,11 @@ https://vercel.com/docs/functions/edge-functions/og-image-generation/og-image-ex
 
 
 
+自动移除url中www.
+
+https://headlines-in-dynamic-github-repo-og.vercel.app/github.com/wanghaisheng/headlines-in-dynamic-github-repo-og
+按域名 split之后，对于第二个元素检测是否，存在的话replace the `https://` (or `https://www.`) portion
+
 ## deployed url
 
 
