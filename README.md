@@ -6,6 +6,8 @@ https://vercel.com/docs/functions/edge-functions/og-image-generation
 https://metatags.io/?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FRnIQChBqdFZPjL-cMJIAog
 https://vercel.com/docs/functions/edge-functions/og-image-generation/og-image-examples#using-an-external-dynamic-image
 
+如果把它当做一个打水印的工具，用户输入自己的url，添加 盗版必究 ，由xxx赞助发布等等呢
+
 
 
 ## deployed url
