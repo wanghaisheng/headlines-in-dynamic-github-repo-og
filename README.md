@@ -1,3 +1,11 @@
+support github profile and repo url
+
+
+https://vercel.com/docs/functions/edge-functions/og-image-generation
+
+
+
+
 ## Introduction
 
 **OG.cool** is a demo that shows you how you can display headlines directly inside your news article's OG image. Powered by [`@vercel/og`](https://vercel.com/docs/functions/edge-functions/og-image-generation).
