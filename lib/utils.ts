@@ -65,6 +65,8 @@ export function getEndpointFromDomain(domain: string) {
     return "wired";
   } else if (domain.includes("techcrunch.com")) {
     return "tc";
+  } else if (domain.includes("github.com")) {
+    return "github";    
   } else {
     return "nyt";
   }
@@ -74,4 +76,6 @@ export const SUPPORTED_PUBLICATIONS = [
   "nytimes.com",
   "wired.com",
   "techcrunch.com",
+  "github.com",
+  
 ];
