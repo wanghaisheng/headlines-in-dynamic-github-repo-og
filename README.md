@@ -3,6 +3,8 @@ support github profile and repo url
 
 https://vercel.com/docs/functions/edge-functions/og-image-generation
 
+https://metatags.io/?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FRnIQChBqdFZPjL-cMJIAog
+https://vercel.com/docs/functions/edge-functions/og-image-generation/og-image-examples#using-an-external-dynamic-image
 
 
 
