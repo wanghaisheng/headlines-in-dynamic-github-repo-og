@@ -1,3 +1,9 @@
+submit api to rapid api to earn money
+
+https://rapidapi.com/blog/how-to-monetize-your-api/
+
+
+
 support github profile and repo url
 
 
